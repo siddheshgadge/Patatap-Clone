@@ -1,6 +1,6 @@
 # Patatap-Clone
 https://patatap.com/                                                                                                                                               
-Simple web application which is an clone for above web application.                                                                                                       
+Simple web application which is similar above web application.                                                                                                       
 It shows some animations with music when key is pressed.                                                                                                                 
 This is a great example to study paper.js and howler.js libraries.                                                                                                         
 Technologies used:
