@@ -1,0 +1,35 @@
+html,body{
+	height: 100%;
+	margin: 0;
+	background-color: #000000;
+	font-family: bangers;
+}
+.myCanvas{
+	display: none;
+}
+.open{
+	height: 100%;
+	width: 100%;
+	background-color: #000000;
+	display: inherit;
+}
+div{
+	color: white;
+	background-color: #00004d;
+	border-radius: 5%;
+	box-shadow: 0 0 3px rgba(0,200,0,0.1);
+	box-sizing: border-box;
+	margin: 250px 200px;
+	padding: 0;
+	display: inline-block;
+	font-weight: normal;
+	font-size: 50px;
+	transition: 0.4s linear;
+}
+button{
+	color:white;
+	background-color: #00004d;
+	font-weight: normal;
+	font-size: inherit;
+	border: none;
+}
