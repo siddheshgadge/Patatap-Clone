@@ -255,7 +255,7 @@
 						newShape = new Path.RegularPolygon(newPoint, 6, 600);
 						newShape.fillColor=keyData[event.key].color;
 						keyData[event.key].sound.play();
-						newShape.removeSegment();
+						newShape.removeSegment(0);
 						Shapes.push(newShape);
 						counter = 1;
 					}
